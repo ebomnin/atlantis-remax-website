@@ -22,6 +22,10 @@ body{
 	margin: auto 20px;
 }
 
+#title{
+	color: darkblue;
+}
+
 #contact{
 	display: flex;
 	justify-content: space-around;
